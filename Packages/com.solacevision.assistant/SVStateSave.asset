@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1517423772, guid: 128cacf8d21444827833827888034207, type: 3}
+  m_Name: SVStateSave
+  m_EditorClassIdentifier: 
+  conversationViewSave:
+    promptText: 'me salta el siguiente error:
+
+      Assets\Scripts\PlayerController.cs(14,13):
+      error CS0246: The type or namespace name ''InputMaster'' could not be found
+      (are you missing a using directive or an assembly reference?)
+
+      mi input
+      se llama "InputMaster". Como puedo arreglarlo?'
+    outputText: "Mis disculpas por la confusi\xF3n anterior. Parece que hay un error
+      en el c\xF3digo. El error se debe a que el script est\xE1 buscando una clase
+      llamada 'InputMaster' que no existe.\n\nEl nombre 'InputMaster' debe ser reemplazado
+      por el nombre de la clase que generaste cuando creaste el Input Action. Por
+      ejemplo, si creaste un Input Action llamado 'Controls', entonces debes reemplazar
+      'InputMaster' con 'Controls'. \n\nAqu\xED est\xE1 el c\xF3digo corregido:\n\n```csharp\nusing
+      System.Collections;\nusing System.Collections.Generic;\nusing UnityEngine;\nusing
+      UnityEngine.InputSystem;\n\npublic class PlayerController : MonoBehaviour\n{\n   
+      public float speed = 1.0f;\n    private Vector2 moveInput;\n    private Rigidbody2D
+      rb;\n\n    // InputSystem\n    private Controls controls; // Reemplaza 'Controls'
+      con el nombre de tu Input Action\n\n    private void Awake()\n    {\n       
+      controls = new Controls();\n\n        controls.Player.Move.performed += ctx
+      => moveInput = ctx.ReadValue<Vector2>();\n        controls.Player.Move.canceled
+      += ctx => moveInput = Vector2.zero;\n    }\n\n    private void Start()\n   
+      {\n        rb = GetComponent<Rigidbody2D>();\n    }\n\n    private void Update()\n   
+      {\n        Vector2 movement = moveInput * speed * Time.deltaTime;\n\n       
+      rb.MovePosition(rb.position + movement);\n    }\n\n    private void OnEnable()\n   
+      {\n        controls.Player.Enable();\n    }\n\n    private void OnDisable()\n   
+      {\n        controls.Player.Disable();\n    }\n}\n```\n\nPor favor, aseg\xFArate
+      de cambiar 'Controls' con el nombre de tu archivo de Input Actions. Y en 'controls.Player.Move',
+      'Player' y 'Move' deben ser reemplazados con el nombre de tu Mapa de Acci\xF3n
+      y Acci\xF3n, respectivamente.\n\nSi a\xFAn tienes problemas, por favor proporciona
+      m\xE1s detalles sobre el error que est\xE1s viendo."
+  actionViewSave:
+    promptText: 
+    outputText: 
+  imageViewSave:
+    promptText: 
+    imageData: 
+    saveFileName: 
+  textureViewSave:
+    promptText: 
+    imageData: 
+    saveFileName: 
+  voiceViewSave:
+    promptText: 
+    soundData: 
+    voiceSelection: Rachel
+    stabilitySelection: 0.75
+    similaritySelection: 0.75
+    saveFileName: 
+  currentView: 0

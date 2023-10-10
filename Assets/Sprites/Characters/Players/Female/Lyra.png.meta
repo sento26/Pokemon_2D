@@ -1,0 +1,3167 @@
+fileFormatVersion: 2
+guid: 5933a04952de64a42b3ec100894b118b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lyra_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 460
+        width: 27
+        height: 27
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98bd31bf888af447b63311c379c1624
+      internalID: -1612937915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 462
+        width: 27
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6040b9249297d8747aa87a182f2c80fd
+      internalID: 1760998046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 460
+        width: 27
+        height: 27
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc9f2104e58bfa4f94b81e67dfc573e
+      internalID: -1645105766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_3
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 462
+        width: 27
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7748c1abb3fd26e47a4ac5e60dd97774
+      internalID: 363704379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_4
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 464
+        width: 27
+        height: 23
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc494b8c214fc04f9488c5d058a9f57
+      internalID: -829233562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_5
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 462
+        width: 25
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b424fdb38a56bad42aac15a4652983fd
+      internalID: -573713901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_6
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 464
+        width: 27
+        height: 22
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7a3cf13f9b6cf4bbe6b6542e579e84
+      internalID: 959597635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_7
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 463
+        width: 20
+        height: 23
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60bad314fa670564ea3c34532d2c36bd
+      internalID: 358581813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_8
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 462
+        width: 27
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855dc6b4aac81da4983e2a3ccf0f807c
+      internalID: 250533819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_9
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 463
+        width: 20
+        height: 23
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e175a2a4b81aa4f9685467cc288d62
+      internalID: 202365492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_10
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 459
+        width: 29
+        height: 23
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf011465fcdd504bb0ea625da97ad7e
+      internalID: 831441608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_11
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 460
+        width: 30
+        height: 22
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a5408d8c90a354d836820c34c8c8eb
+      internalID: -217489571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_12
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 458
+        width: 27
+        height: 27
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1dd02e8155ccaa44ae248796d5c11e6
+      internalID: 1309479893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_13
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 458
+        width: 27
+        height: 29
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b965d61486fb6f4baed965448817c0e
+      internalID: 945451442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_14
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 432
+        width: 20
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486e0d407311c9845aecd8733369feb5
+      internalID: -1327678551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_15
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 433
+        width: 20
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd8dcb04b0458a4fabdf5dec2b73438
+      internalID: -149778522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_16
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 432
+        width: 20
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1f54b60f72c4949a6c247232ab13c8
+      internalID: 1801182377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_17
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 433
+        width: 21
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f41a2c1521975a46b9136adf233a92a
+      internalID: 1393522915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_18
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 434
+        width: 21
+        height: 23
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4626a36f0b89b4c884cc69801a8aa9
+      internalID: 49649638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_19
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 433
+        width: 20
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285f434ac20d78d42a876167e1a0359d
+      internalID: -1760153614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_20
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 428
+        width: 27
+        height: 26
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e841ddfd7e438f94489db6e27db9a945
+      internalID: -2117561966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_21
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 429
+        width: 27
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb5af49d6586c24cb60e52d1d870081
+      internalID: 356666559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_22
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 428
+        width: 27
+        height: 26
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5911f8cc4baa348906a913872b4916
+      internalID: 1996095923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_23
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 428
+        width: 21
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90e020a98aea424dae03222045d8f7e
+      internalID: -1852138473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_24
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 427
+        width: 23
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e08d9395b2b87447bc100adecaed8e0
+      internalID: 2141710982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_25
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 427
+        width: 31
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbaf54d9f1f78c4d885c7073e3bc987
+      internalID: 1906196293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_26
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 428
+        width: 31
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e8e61ac0350944fb8f68006ddd89ec
+      internalID: -1480540152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_27
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 402
+        width: 27
+        height: 27
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03790e2edbf06094cb95e2a1e62442f0
+      internalID: -2124676161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_28
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 404
+        width: 27
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9af13d86cea3b94f9a494ccec1885f5
+      internalID: 1884968504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_29
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 402
+        width: 27
+        height: 27
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2eff0ddbb2558b40b4cfbae108a3ba2
+      internalID: -13193687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_30
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 402
+        width: 27
+        height: 26
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f94d46f0d917548b97eea660eb8f64
+      internalID: -2090708631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_31
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 403
+        width: 27
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17fe370fa043f24590c1415d2f19a18
+      internalID: 552823911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_32
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 402
+        width: 27
+        height: 26
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365a0eabe12a3d34a9d00a8d94e2e7d1
+      internalID: 898174874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_33
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 400
+        width: 27
+        height: 26
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7232a7c565a5e545897007ee64ccdaa
+      internalID: 1524141048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_34
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 401
+        width: 27
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd95b2d511a6cf446b8d63a2b9b438f3
+      internalID: -398774920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_35
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 400
+        width: 27
+        height: 26
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7399e1f44e3204dad08ded4bdb7af1
+      internalID: -1273757648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_36
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 395
+        width: 27
+        height: 26
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bdef4ff5315fc4ab4b97a489d98ffb
+      internalID: -1113471590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_37
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 394
+        width: 27
+        height: 28
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5c3bb08f744454aad9f849d4f18fda
+      internalID: -946231102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_38
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 390
+        width: 27
+        height: 30
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8c5d4398709364cac7f2229f3b7979
+      internalID: 2077799546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_39
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 389
+        width: 27
+        height: 31
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2c852a1508b7b4cb9b03bbc970f93f
+      internalID: 1383769090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_40
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 374
+        width: 20
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c687188f4aa4743499cc66f09879b92a
+      internalID: -599524636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_41
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 375
+        width: 20
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cacf73cb3537df4ebcc0496a13c65ee
+      internalID: -734131965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_42
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 374
+        width: 20
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66a2c83961cbeb4d890e1a760e71460
+      internalID: -1787488753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_43
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 376
+        width: 21
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e05739b1255e2b44ad9e7f21e7ca851
+      internalID: 868221087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_44
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 376
+        width: 21
+        height: 23
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb9ec6d276ef18448f82917e597dea2
+      internalID: -1039942787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_45
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 375
+        width: 20
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05cea829c60f274f8718fb2052fe79b
+      internalID: 11244828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_46
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 369
+        width: 27
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143ff1aff9e47b44b8bf7cf52438e75d
+      internalID: 899124207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_47
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 371
+        width: 27
+        height: 23
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402ac1696a6a0f64f9ed777faa7afb05
+      internalID: -972368293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_48
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 359
+        width: 21
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70be258694cb2e44082aca9cbe7777bf
+      internalID: -1561739255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_49
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 358
+        width: 23
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe850cd815ab8164b878830bbdff2f2f
+      internalID: 357160086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_50
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 358
+        width: 31
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b11882ae0adb8c4099d48f82ce919cb
+      internalID: 526235653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_51
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 358
+        width: 31
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a68cb04dcf47a4fa571c61fe078835
+      internalID: 1520411039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_52
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 334
+        width: 27
+        height: 27
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0827326fc67e2f9478f20fcb733e1eb7
+      internalID: -151205240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_53
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 322
+        width: 20
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04bff84b9ada04428fbef91ee8c81b4
+      internalID: -1897430111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_54
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 322
+        width: 20
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7987a7a4c61dc874da0834d63ef16e2a
+      internalID: 1000563933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_55
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 319
+        width: 27
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee580fc37108052489e6ed9170f1af2f
+      internalID: 688086678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_56
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 321
+        width: 27
+        height: 23
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25b8082d64211549a5d447307c3613a
+      internalID: -1123160108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_57
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 304
+        width: 29
+        height: 27
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2296fce108b3a40bdf91d8fd3ea0a5
+      internalID: -1396520210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_58
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 304
+        width: 27
+        height: 27
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34bb6727b1b86e41b6b0d499e605b29
+      internalID: 851589548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_59
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 304
+        width: 27
+        height: 27
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e58c939a5e78d044a701ea1d3b9b34e
+      internalID: 496437510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_60
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 291
+        width: 27
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217f20b6667b9f24181aebf064a2d63a
+      internalID: 494580799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_61
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 291
+        width: 27
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5886c5586447284d8091afab90a7121
+      internalID: 1074038568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_62
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 290
+        width: 27
+        height: 26
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd090e7fd7b02bc4d8bb8fff9b37021f
+      internalID: -787666266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_63
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 291
+        width: 27
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db89c3ef06a2b9479038672330e9ded
+      internalID: -224115893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_64
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 291
+        width: 20
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5363d728cb95d4593a3ac22c4831d8
+      internalID: 1065533115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_65
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 292
+        width: 21
+        height: 23
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626d0f8d6a3b6894ba530f827f4a4835
+      internalID: 1994168144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_66
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 276
+        width: 20
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cace4ba7d61d44d9e723c2737532a4
+      internalID: -576389828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_67
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 260
+        width: 27
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1d3dfed2d5b8e4d960996934bd3867
+      internalID: -1501172213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_68
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 261
+        width: 27
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37b81107d953934faea58db3dee67d7
+      internalID: 1213904598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_69
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 247
+        width: 21
+        height: 26
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4de9718d94a5c4e830e89f2ec14904
+      internalID: -1689984549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_70
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 247
+        width: 21
+        height: 26
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a0a1876021cf543840218b47decca4
+      internalID: 1980629590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_71
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 247
+        width: 22
+        height: 26
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e874226d13cb6a04580cfb453596d718
+      internalID: 1023655829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_72
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 247
+        width: 23
+        height: 26
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8353ce6f8d3a504f893be5a16d351e5
+      internalID: 1547709142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_73
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 247
+        width: 23
+        height: 27
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1750e347fa25b8d4c825558664dbe14a
+      internalID: 1178167272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_74
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 231
+        width: 20
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5232b2eeae60b64c9e80f8288a02d04
+      internalID: 1901220163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_75
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 232
+        width: 21
+        height: 23
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0235692cdafbd4ba669c0cfc6bdf76
+      internalID: -416670796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_76
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 217
+        width: 27
+        height: 26
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de934be9ecc0994282c97eefb173dc3
+      internalID: -122741520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_77
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 188
+        width: 27
+        height: 26
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f574201b39227242b780c94aabd6f2e
+      internalID: 1270827750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_78
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 188
+        width: 27
+        height: 26
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23b259c24fbb4849a0a064c6886b6be
+      internalID: -1209285710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_79
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 188
+        width: 25
+        height: 26
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9ad62dc0ced1d4bb7c727606c37070
+      internalID: 153522072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_80
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 171
+        width: 27
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fd946d8ea94384c855c72bfd26b0b2
+      internalID: -513302153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_81
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 157
+        width: 20
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba7cf442cbba8042aa59351e0f7964e
+      internalID: 1403927641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_82
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 159
+        width: 27
+        height: 23
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61c1ce28ab804c408d1584b314bc08a
+      internalID: 1797496521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_83
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 159
+        width: 26
+        height: 22
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08fbe54052606d44f949b6d9c4222980
+      internalID: 859460394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_84
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 159
+        width: 27
+        height: 26
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7408fcd7d3a52ec4b98a617fb718ad63
+      internalID: -1798000118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_85
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 158
+        width: 27
+        height: 27
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690bcfbf29a346c4c96b2bf86972ee5b
+      internalID: 184079766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_86
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 127
+        width: 21
+        height: 26
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e87b91f8f6250429de7f536f2b2dd2
+      internalID: 390162687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_87
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 127
+        width: 21
+        height: 26
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce674c17365d9c4395b14a0c7518e79
+      internalID: -992185547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_88
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 127
+        width: 22
+        height: 26
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9e13cc302beca488bb20f50a06a392
+      internalID: 1637883473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_89
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 126
+        width: 23
+        height: 26
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c0abe31e514be449b5ab8512517256
+      internalID: -830092990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_90
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 126
+        width: 23
+        height: 27
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a0c19538668cf41bca4dde504274c5
+      internalID: -792352379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_91
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 93
+        width: 27
+        height: 27
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a987bc5ab5902d04d9c5141fd8b4929e
+      internalID: 750517573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_92
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 95
+        width: 27
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64edfd0e1e5d4e343b759a92e7c11f51
+      internalID: 708596526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_93
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 93
+        width: 27
+        height: 27
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc64ef26729c694287140c054ae38a9
+      internalID: 2105842093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_94
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 94
+        width: 27
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f044bfee9aa3c4fb115310c063b210
+      internalID: 139088024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_95
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 96
+        width: 27
+        height: 23
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ced53f8431eb54ea713f39a559a8fd
+      internalID: -2001256594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_96
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 94
+        width: 25
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e34bf77a1f2024399200ea7564ed6e
+      internalID: -304738834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_97
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 86
+        width: 20
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d692b738f9cdb498fa8f3458d58721
+      internalID: 2077319730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_98
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 86
+        width: 20
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609adc2991837354d9b193b3b4fe8a29
+      internalID: -2054801739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_99
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 95
+        width: 27
+        height: 26
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af6bccb80346d44c931a0b73dd0d95f
+      internalID: 1330452594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_100
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 97
+        width: 27
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283ac551f6fb2084e959f20dfce80f47
+      internalID: -412486164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_101
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 95
+        width: 27
+        height: 26
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d62d105c3226864ebd3c9d448e25c8a
+      internalID: 678572537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_102
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 65
+        width: 20
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8fe21e98e71c140a76a415504755e2
+      internalID: 908835015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_103
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 66
+        width: 20
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf25ef243d0b0048bb68f0abc84282a
+      internalID: -2115618559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_104
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 65
+        width: 20
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036b6153cd793a843aece2efeb7a7f04
+      internalID: 555401389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_105
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 68
+        width: 20
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a2bdd9354ee294bb708f85157fada3
+      internalID: 624810711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_106
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 69
+        width: 21
+        height: 23
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab3892a7a53692478fa3862ecec1b8f
+      internalID: 231206637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_107
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 68
+        width: 21
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a2bac707f6f44419f5326c8feb4beb
+      internalID: 642016461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_108
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 57
+        width: 27
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a15bd063760344cae3e8e8ce8f7bf4
+      internalID: -113102451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_109
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 57
+        width: 27
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb25ccfcc7d5b2d43838e02c0dd4094c
+      internalID: 376765767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_110
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 56
+        width: 27
+        height: 26
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0202e946842cca04fa6ccef045466df5
+      internalID: 1557443567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_111
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 57
+        width: 27
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec244c8cf0e4334babdf152b6d45922
+      internalID: 1370578472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_112
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 68
+        width: 19
+        height: 23
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6be6e3413685a4293c74278f07bd88
+      internalID: -651683843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_113
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 68
+        width: 19
+        height: 23
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c24d5ea1388144590b71279c095d96
+      internalID: -854864405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_114
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 67
+        width: 19
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134970c11b203a34ab1d1b541341393d
+      internalID: -1605274337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_115
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 68
+        width: 19
+        height: 23
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b587c21f604edd4449063e1acbaac835
+      internalID: -979837407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_116
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 36
+        width: 27
+        height: 27
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da8ba722f0593c4cb0d07dae5258a08
+      internalID: -2008275388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_117
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 38
+        width: 27
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc448bc28b164e842b3d048f07e38a57
+      internalID: 1748873363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_118
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 36
+        width: 27
+        height: 27
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c113c0f22f00e54190cfe5e76d08f0d
+      internalID: 2040184631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_119
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 39
+        width: 27
+        height: 26
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2de9787387e41f4e9c51752a1251925
+      internalID: 869336845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_120
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 41
+        width: 27
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976e72e98708d4445834ef776be22e4c
+      internalID: -818738246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_121
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 39
+        width: 27
+        height: 26
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96705668a94f4541864e22dc2d294a2
+      internalID: 932890311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_122
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 37
+        width: 27
+        height: 26
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7b6b7d418c87c44b0e970bb66fe244
+      internalID: 140384394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_123
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 39
+        width: 27
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f211c989277b84f9c04a6bdca79a68
+      internalID: -2108155694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_124
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 37
+        width: 27
+        height: 26
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7853eb14a5e9f4ca6e9123ab046263
+      internalID: 800237508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_125
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 10
+        width: 20
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231986034867bf1448224b64c03d0036
+      internalID: -1166243962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_126
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 11
+        width: 20
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9645d0a99c15542a56babb4b642810
+      internalID: -677890831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_127
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 10
+        width: 20
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18828a8182d7b443ae000a2690a6115
+      internalID: -1851824110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_128
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 13
+        width: 20
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292920f5bdd77ba45be4ec9a8d299984
+      internalID: 1630179824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_129
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 14
+        width: 21
+        height: 23
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb3925025a34a242a7cadf01c7616bd
+      internalID: -286861292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_130
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 13
+        width: 21
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a1ec3b97394e043bac434ed978c928
+      internalID: -1349060570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_131
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 14
+        width: 27
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efcd007436b97a548814ce4c8a8aee7a
+      internalID: 991719453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_132
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 16
+        width: 27
+        height: 23
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e2924323c3fd945a0ae367fa45400f
+      internalID: 1003022129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_133
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 7
+        width: 19
+        height: 23
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549dc54a190ed0e44b47d80a19459e37
+      internalID: 1738363909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_134
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 7
+        width: 19
+        height: 23
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc146a3dc8ed30243aed6ce6dc5ff8e5
+      internalID: -2035743047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_135
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 7
+        width: 19
+        height: 23
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07281b33ad003848997fa535acf9226
+      internalID: -130207375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyra_136
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 6
+        width: 19
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf27c2dac78cc44bad58c0182f462ce
+      internalID: -113042408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Lyra_0: -1612937915
+      Lyra_1: 1760998046
+      Lyra_10: 831441608
+      Lyra_100: -412486164
+      Lyra_101: 678572537
+      Lyra_102: 908835015
+      Lyra_103: -2115618559
+      Lyra_104: 555401389
+      Lyra_105: 624810711
+      Lyra_106: 231206637
+      Lyra_107: 642016461
+      Lyra_108: -113102451
+      Lyra_109: 376765767
+      Lyra_11: -217489571
+      Lyra_110: 1557443567
+      Lyra_111: 1370578472
+      Lyra_112: -651683843
+      Lyra_113: -854864405
+      Lyra_114: -1605274337
+      Lyra_115: -979837407
+      Lyra_116: -2008275388
+      Lyra_117: 1748873363
+      Lyra_118: 2040184631
+      Lyra_119: 869336845
+      Lyra_12: 1309479893
+      Lyra_120: -818738246
+      Lyra_121: 932890311
+      Lyra_122: 140384394
+      Lyra_123: -2108155694
+      Lyra_124: 800237508
+      Lyra_125: -1166243962
+      Lyra_126: -677890831
+      Lyra_127: -1851824110
+      Lyra_128: 1630179824
+      Lyra_129: -286861292
+      Lyra_13: 945451442
+      Lyra_130: -1349060570
+      Lyra_131: 991719453
+      Lyra_132: 1003022129
+      Lyra_133: 1738363909
+      Lyra_134: -2035743047
+      Lyra_135: -130207375
+      Lyra_136: -113042408
+      Lyra_14: -1327678551
+      Lyra_15: -149778522
+      Lyra_16: 1801182377
+      Lyra_17: 1393522915
+      Lyra_18: 49649638
+      Lyra_19: -1760153614
+      Lyra_2: -1645105766
+      Lyra_20: -2117561966
+      Lyra_21: 356666559
+      Lyra_22: 1996095923
+      Lyra_23: -1852138473
+      Lyra_24: 2141710982
+      Lyra_25: 1906196293
+      Lyra_26: -1480540152
+      Lyra_27: -2124676161
+      Lyra_28: 1884968504
+      Lyra_29: -13193687
+      Lyra_3: 363704379
+      Lyra_30: -2090708631
+      Lyra_31: 552823911
+      Lyra_32: 898174874
+      Lyra_33: 1524141048
+      Lyra_34: -398774920
+      Lyra_35: -1273757648
+      Lyra_36: -1113471590
+      Lyra_37: -946231102
+      Lyra_38: 2077799546
+      Lyra_39: 1383769090
+      Lyra_4: -829233562
+      Lyra_40: -599524636
+      Lyra_41: -734131965
+      Lyra_42: -1787488753
+      Lyra_43: 868221087
+      Lyra_44: -1039942787
+      Lyra_45: 11244828
+      Lyra_46: 899124207
+      Lyra_47: -972368293
+      Lyra_48: -1561739255
+      Lyra_49: 357160086
+      Lyra_5: -573713901
+      Lyra_50: 526235653
+      Lyra_51: 1520411039
+      Lyra_52: -151205240
+      Lyra_53: -1897430111
+      Lyra_54: 1000563933
+      Lyra_55: 688086678
+      Lyra_56: -1123160108
+      Lyra_57: -1396520210
+      Lyra_58: 851589548
+      Lyra_59: 496437510
+      Lyra_6: 959597635
+      Lyra_60: 494580799
+      Lyra_61: 1074038568
+      Lyra_62: -787666266
+      Lyra_63: -224115893
+      Lyra_64: 1065533115
+      Lyra_65: 1994168144
+      Lyra_66: -576389828
+      Lyra_67: -1501172213
+      Lyra_68: 1213904598
+      Lyra_69: -1689984549
+      Lyra_7: 358581813
+      Lyra_70: 1980629590
+      Lyra_71: 1023655829
+      Lyra_72: 1547709142
+      Lyra_73: 1178167272
+      Lyra_74: 1901220163
+      Lyra_75: -416670796
+      Lyra_76: -122741520
+      Lyra_77: 1270827750
+      Lyra_78: -1209285710
+      Lyra_79: 153522072
+      Lyra_8: 250533819
+      Lyra_80: -513302153
+      Lyra_81: 1403927641
+      Lyra_82: 1797496521
+      Lyra_83: 859460394
+      Lyra_84: -1798000118
+      Lyra_85: 184079766
+      Lyra_86: 390162687
+      Lyra_87: -992185547
+      Lyra_88: 1637883473
+      Lyra_89: -830092990
+      Lyra_9: 202365492
+      Lyra_90: -792352379
+      Lyra_91: 750517573
+      Lyra_92: 708596526
+      Lyra_93: 2105842093
+      Lyra_94: 139088024
+      Lyra_95: -2001256594
+      Lyra_96: -304738834
+      Lyra_97: 2077319730
+      Lyra_98: -2054801739
+      Lyra_99: 1330452594
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

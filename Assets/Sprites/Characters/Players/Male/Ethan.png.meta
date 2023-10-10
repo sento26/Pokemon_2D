@@ -1,0 +1,3343 @@
+fileFormatVersion: 2
+guid: 1c318cb346b75c142a721c8bb196d933
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ethan_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 446
+        width: 17
+        height: 23
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c528a3c0264f8c4f8ef9b827a1cffcd
+      internalID: 1888868887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 444
+        width: 17
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91abb08f9408fc47bdbec4754cd5e42
+      internalID: -885326077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_2
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 444
+        width: 17
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960eb5193d750984783bd29957625934
+      internalID: 1071786688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 444
+        width: 17
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc582f03705b684d841251915050dfa
+      internalID: -1332145786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_4
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 447
+        width: 17
+        height: 22
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df986facb8a511f49bd794be26ef8f3a
+      internalID: -755939307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_5
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 444
+        width: 17
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3319d10111c8fc409666b4dc001c136
+      internalID: -735078105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_6
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 446
+        width: 17
+        height: 23
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7006120444021468e169a6f2ea5980
+      internalID: 1111334505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_7
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 446
+        width: 19
+        height: 22
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5fe7a7ddc7ed4499a957d406e37fb3
+      internalID: 291679924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_8
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 446
+        width: 17
+        height: 20
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a15cdbcf730c7448e3213c92b9e456
+      internalID: 1321272488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_9
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 446
+        width: 19
+        height: 22
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db99e171de4d4ee4e8fa2d5540c1385d
+      internalID: -805162522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_10
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 443
+        width: 24
+        height: 22
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc335fb19b62224fbc456445d41b0d8
+      internalID: 93149773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_11
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 443
+        width: 25
+        height: 21
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1118d166d9bd9314ba2aa49d2cde4d2e
+      internalID: 1334607149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_12
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 443
+        width: 18
+        height: 27
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f78672b5ff1c014e8bb36d346bc9717
+      internalID: -191617910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_13
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 443
+        width: 17
+        height: 28
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040ff6be71785d84eb56275ee3a76401
+      internalID: -2050728721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 417
+        width: 19
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9244ca3bf4e097b4ebb87c30d48e62f5
+      internalID: 63668977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_15
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 417
+        width: 19
+        height: 23
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2825f74a2ca20d6448946dd15ea52e7a
+      internalID: 490840105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_16
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 417
+        width: 19
+        height: 23
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ad883a951d15d4882671403972561f
+      internalID: 1422395470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_17
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 418
+        width: 19
+        height: 23
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f4d86d799b41f4dbaf2d90cd5fdbc3
+      internalID: -1578321465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_18
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 419
+        width: 19
+        height: 22
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ec352d6b62e3542980505c2d21bfac
+      internalID: -633374163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_19
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 418
+        width: 19
+        height: 23
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d4b7155e7f7954da5c51617df734ce
+      internalID: 1739158329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_20
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 413
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d29759acc7ef06488e622c3ba935292
+      internalID: -952502401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_21
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 414
+        width: 17
+        height: 23
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b47726c24514964cb5ea87cbd875722
+      internalID: -170955072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_22
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 413
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ce4dfc05ede074a851e3629e745bf7
+      internalID: 267044564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_23
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 414
+        width: 21
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb30b0cc6707c5847b959de400227ea7
+      internalID: -700587583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_24
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 414
+        width: 23
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662c30f203ba8934195329aad484a75a
+      internalID: 193166310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_25
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 414
+        width: 29
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823976ae576095741b59a493fe13cff2
+      internalID: -488686681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_26
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 414
+        width: 30
+        height: 23
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49648c5119c73e42b42aaf5852fec2a
+      internalID: -1688598483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_27
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 388
+        width: 17
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a41a218a64ca0a47aaf90dd943e6834
+      internalID: 776948610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_28
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 390
+        width: 17
+        height: 23
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81caa2a025b14442b21f9486bc01a5d
+      internalID: 816522923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_29
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 388
+        width: 17
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ca4eb599b804240ba48352af231861
+      internalID: -1420599424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_30
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 391
+        width: 20
+        height: 23
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab1941291eb1b04698615674fc93941
+      internalID: -1140432151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_31
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 394
+        width: 17
+        height: 21
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8748c043bf69e6d4f9cbe0be4f23854d
+      internalID: -2066977460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_32
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 392
+        width: 20
+        height: 23
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0905a58106a737b48b9d27df74dfa5ce
+      internalID: -1064424081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_33
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 387
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf48027bf8a9b94b842d2391b6f9193
+      internalID: -426939597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_34
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 388
+        width: 17
+        height: 23
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ed91a78db926146920226da1c07a73
+      internalID: -2035581113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_35
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 387
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964bf023546beda48b395239c05bd3c6
+      internalID: -797284668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_36
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 382
+        width: 18
+        height: 26
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ff7cd1c041b16419175e3cbccaf199
+      internalID: -1048982844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_37
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 381
+        width: 17
+        height: 28
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28fea0b1db783448bf57a0ca8891275
+      internalID: -91440630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_38
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 378
+        width: 17
+        height: 27
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60c88204ae78d44987964ceb81cd99f
+      internalID: 1771348662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_39
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 376
+        width: 17
+        height: 29
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012ac2f7a88b5c44aba48e68c3a1caf1
+      internalID: -170286284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 362
+        width: 19
+        height: 23
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400c16c55fd58b54db2f0db2b6c412ed
+      internalID: -574111653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_41
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 362
+        width: 19
+        height: 23
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96f9789d948ff64c90a1b2a8ad6e91c
+      internalID: -360832817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_42
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 361
+        width: 19
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4208e09919b2245845921f56d56e60
+      internalID: 1683106913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_43
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 365
+        width: 19
+        height: 23
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc6a89bf67c78e43bf15b810a235024
+      internalID: 370705976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_44
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 366
+        width: 19
+        height: 22
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95030313cca16d42bea7504535768c0
+      internalID: 1408295062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_45
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 365
+        width: 19
+        height: 23
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7b6061524f4494d88e6398d67aaa01
+      internalID: -236978387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_46
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 356
+        width: 17
+        height: 23
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad72ddde6d8381649b6547288e86baa8
+      internalID: 492379521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_47
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 359
+        width: 17
+        height: 21
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cc90cf12643d041a5ece4175478526
+      internalID: 127953936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_48
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 346
+        width: 21
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014fddfef2bcc3b4fbf03b2dd4b9bdb9
+      internalID: -1038493167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_49
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 346
+        width: 23
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa3f77ab5fbbfa489a4cbc2124acafb
+      internalID: -842475056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_50
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 346
+        width: 29
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20c8864c5de4ad428cdbdc6cb13241a
+      internalID: -1354223763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_51
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 346
+        width: 30
+        height: 23
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5aeba8063e3144f914255684ab98fb
+      internalID: 35460245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_52
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 327
+        width: 17
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d130207a05cd24f8608640f97749f8
+      internalID: 209106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_53
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 314
+        width: 18
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e05cf8f910bdd2449a3faa51b03f26c
+      internalID: 1900761217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_54
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 314
+        width: 18
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a868da1d4c0c81f4fbdee2062879602c
+      internalID: -1327160321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_55
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 299
+        width: 17
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e8311b84694824fa6b51f64228e851
+      internalID: -922557428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_56
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 299
+        width: 17
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a67af9c6f15c745aeffeb777f09da6
+      internalID: -356630640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_57
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 299
+        width: 17
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fbfd3105d59a7498130064d69e673a
+      internalID: 1604102228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 299
+        width: 17
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc35b4f99e2ee043ba6a8a37677e178
+      internalID: 873034035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_59
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 288
+        width: 17
+        height: 23
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677fbee24647837479e4019b4dfda66c
+      internalID: -1978312747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_60
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 288
+        width: 17
+        height: 23
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528903c5def876b439191bf51a1dfe05
+      internalID: -2053873054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_61
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 287
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b380e171621be5146825309cb6755468
+      internalID: -1484435892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_62
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 288
+        width: 17
+        height: 23
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d58a7d931d66674fa30e43fee1f991b
+      internalID: 1890775136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_63
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 272
+        width: 20
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8c10fa650ff234b80a181da1d901b0
+      internalID: 1380601480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_64
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 271
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25d32a52074ac246b6725868157cbf7
+      internalID: -1196401080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_65
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 245
+        width: 21
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c40c85c8a03d594eb8f3822aa24270c
+      internalID: 246860110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_66
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 245
+        width: 20
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c767b5998ca7ac44b72b1891575e7fc
+      internalID: -2006051311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_67
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 245
+        width: 20
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f372e48180334f4e85bca2af6049af3
+      internalID: 1374713888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_68
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 245
+        width: 23
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81a880cacc5af04997a901cbea9b51c
+      internalID: 65775930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_69
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 245
+        width: 23
+        height: 26
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55fe9e4338405d4cad92459125ea688
+      internalID: 499476626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_70
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 227
+        width: 17
+        height: 26
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bc9f20245cf544da598e7a1d244341
+      internalID: -2004067862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_71
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 229
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabf29f6e5fb92544a408f2e8ad0f447
+      internalID: 1776890859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_72
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 227
+        width: 17
+        height: 26
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74cd136eab8e2147b942224fcaa5caf
+      internalID: 137670492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_73
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 217
+        width: 17
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694d2fe3eee25cd409a8d1a6ccbdadc6
+      internalID: -759840404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_74
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 201
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1b9189b376316408de2fdf61370881
+      internalID: 605733210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_75
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 201
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52ea050c1786dd4aa7f550b19b6d37d
+      internalID: 2033554813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_76
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 200
+        width: 17
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607c362172427364b8c405cee960a5db
+      internalID: -736616104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_77
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 201
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5446f24b03260d418a763dd612d5716
+      internalID: -1482335196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_78
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 188
+        width: 17
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41964a1b2bb0fb47b32dab722ce3890
+      internalID: 1891276888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_79
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 188
+        width: 17
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4702467a303f3f41bbce5099d090843
+      internalID: -346601648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_80
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 188
+        width: 17
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca26d934246e39d40b478cf6757f7b1b
+      internalID: -651303159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_81
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 188
+        width: 17
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16533e1bbf7a50447a7729eed991a0f5
+      internalID: 1700107000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_82
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 179
+        width: 17
+        height: 21
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0aa79df9ee7bf4784b5129b6e538a4
+      internalID: -173862142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_83
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 179
+        width: 17
+        height: 21
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272bf38d41e3d994fa0a663f0d9b4eba
+      internalID: -1849779067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_84
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 179
+        width: 20
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da8e0c0020b2e849baf3f44b8958e95
+      internalID: 1016757345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_85
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 178
+        width: 21
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb3f131e9d596944aba1d016aec233f
+      internalID: 488779262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_86
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 170
+        width: 17
+        height: 26
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40d50d0cb9d50b45a966d13a0e44bd1
+      internalID: -286690451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_87
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 173
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddad5564875f0f9409b8b6b6b9415b96
+      internalID: 1580477730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_88
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 171
+        width: 17
+        height: 26
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbfe0a869ffc0d4b8d4b9042c1c7808
+      internalID: -1138960897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_89
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 160
+        width: 20
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1268967a356704e812c2699cb49626
+      internalID: 2001050707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_90
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 144
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e92f7defc2db754aabd2fc0d96130bc
+      internalID: 738761772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_91
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 144
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25ae79c01a582c449f2b5697e381d94
+      internalID: -618434891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_92
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 142
+        width: 17
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f4f5bceeaa73545aa208085cfbe04b
+      internalID: -627357352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_93
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 143
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1767a2f86af898343bed1c22b9d2c230
+      internalID: 2101705831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_94
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 132
+        width: 20
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5622bcfc42a0c3428767242d8f6c64c
+      internalID: -134749939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_95
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 132
+        width: 21
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67cee04ddf3215a4290c8298b7c1b3e7
+      internalID: 1944281930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_96
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 132
+        width: 20
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bba3d093bdb5a741baa9cf7411127c2
+      internalID: -1593504453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_97
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 133
+        width: 23
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b6d417c2b0a904398499279124fada
+      internalID: -1265699727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_98
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 133
+        width: 23
+        height: 26
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722a17fedd98d184baa38b6e81a9688d
+      internalID: 802012569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_99
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 98
+        width: 17
+        height: 26
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3218fe307bb503f409a71a5c99f11173
+      internalID: -151926343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_100
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 100
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b91569f78adbbf408679bff72da2520
+      internalID: -185470291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_101
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 98
+        width: 17
+        height: 26
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80353e5564edbd418c764be3311c1ea
+      internalID: -1700123711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_102
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 100
+        width: 20
+        height: 23
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da01cf7a42c3e5d4684c854c2487f8bb
+      internalID: -1083523455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_103
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 102
+        width: 17
+        height: 21
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b2d95a5ad03614e8910e85417c8761
+      internalID: 2063655780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_104
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 100
+        width: 20
+        height: 23
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652c6c7040d9c9142b5214c21ecca7d5
+      internalID: -599605951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_105
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 101
+        width: 20
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec44aa7fbb774b4aae3512516cbe967
+      internalID: 1356876253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_106
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 101
+        width: 20
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249b0a18daf393b46b6b1c9c8bc460fd
+      internalID: 2133015201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_107
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 100
+        width: 17
+        height: 26
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f57d8c0db0b1547aca2f1ebecb8649
+      internalID: 26486571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_108
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 102
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618a3417ee8289c4ea6ef7a31001f0b8
+      internalID: -1867600633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_109
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 100
+        width: 17
+        height: 26
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa4f2af14c8a304187bb2f543b66298
+      internalID: 1518586377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_110
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 72
+        width: 20
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555be099adc021d43ad4d5f12a49060e
+      internalID: 38390302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_111
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 72
+        width: 20
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e41c02d8313fc41aa9d68d6c77b338
+      internalID: 760113439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_112
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 71
+        width: 20
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410a12767d3ec724e9d122c5430cca21
+      internalID: -1224975327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_113
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 73
+        width: 20
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f8bfb3b869ed54fbb02b813cf7a5bb
+      internalID: -1149100842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_114
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 74
+        width: 20
+        height: 23
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d4ffc100b86d349a5d0272acf7b2a0
+      internalID: -546106231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_115
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 73
+        width: 20
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4187c3c6beb9fb499df160f735ea286
+      internalID: 1881638578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_116
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 73
+        width: 17
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4dd9a60bd48dea4cad6de3fcbf02f08
+      internalID: -425522633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_117
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 74
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a625a2481c14dc040ba1561beedec8f7
+      internalID: 1430221925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_118
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 74
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5a7eb8b6551654ba61aa67be3c4894
+      internalID: 1578249491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_119
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 74
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b257df13b6d0224f91b7c4357a84fe9
+      internalID: -1659253045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_120
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 73
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22451cb8285b43744b0d69fa73e3754b
+      internalID: -1447726005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_121
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 73
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1008fbe8b84588743a94e13be4d6f137
+      internalID: -2005103673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_122
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 72
+        width: 17
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6258590378da84bb83fb2423eded6f
+      internalID: -1681995238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_123
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 73
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d63deca969c0d24b8988cc5d88143fe
+      internalID: 289166803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_124
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 41
+        width: 17
+        height: 26
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f40da674984eed45af83bea8b986b6c
+      internalID: 1174752262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_125
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 43
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0e638daf219934fa80bbe1f32eb0c0
+      internalID: -200237767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_126
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 41
+        width: 17
+        height: 26
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42581ea21aaaf5a42b5f72499df2a873
+      internalID: 1407975358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_127
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 44
+        width: 17
+        height: 26
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c04d7a3bfc33c94780ea77d70312339
+      internalID: 1564225529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_128
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 47
+        width: 17
+        height: 23
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508bd61614887804e9d3673d60fcb905
+      internalID: -937425536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_129
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 44
+        width: 17
+        height: 26
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88afe587a75b2f94c8c8eaf530b8d503
+      internalID: 140087469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_130
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 29
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91ddf66355d7844495d984de38374aa
+      internalID: 606852293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_131
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 29
+        width: 17
+        height: 22
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e916589baab9904ea164f478cc355d3
+      internalID: -514567119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_132
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 43
+        width: 17
+        height: 26
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6007f70d42a6d4db4d62711fc2868a
+      internalID: 1213627670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_133
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 46
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462e391183e01454fbe385e285e2275d
+      internalID: -1079711105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_134
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 44
+        width: 17
+        height: 26
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8e65d9cfcf85a4b9e4dffb7f130e90
+      internalID: -1983758926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_135
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 15
+        width: 20
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9037ac7441b31854782e7176ad06628e
+      internalID: -398168648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_136
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 15
+        width: 20
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32764e728c7c3f7448eb316c776b3736
+      internalID: -1637385876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_137
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 14
+        width: 20
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a818ae78991d0014194f153cc8e5072b
+      internalID: 368716794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_138
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 17
+        width: 20
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f744cc157a77144cbe8519af52ec4bd
+      internalID: 1151754715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_139
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 18
+        width: 20
+        height: 23
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d92ac183011ba743b4a1b98658325c3
+      internalID: 817865981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_140
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 17
+        width: 20
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74f8b0f79ed1da4c9a0956d35853654
+      internalID: 205922292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_141
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 17
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbedd3c1bc6929d429c485893f13a8c4
+      internalID: 1439248683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_142
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 17
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698b201fa9379d94181e1675dfd725bc
+      internalID: -1332569780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_143
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 16
+        width: 17
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bedf27983bdc01a44ac68b9b74372588
+      internalID: -1535992657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethan_144
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 17
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76aeefd3960884444a1ec22241eca77b
+      internalID: -138091870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ethan_0: -885326077
+      Ethan_1: 1888868887
+      Ethan_10: 93149773
+      Ethan_100: -185470291
+      Ethan_101: -1700123711
+      Ethan_102: -1083523455
+      Ethan_103: 2063655780
+      Ethan_104: -599605951
+      Ethan_105: 1356876253
+      Ethan_106: 2133015201
+      Ethan_107: 26486571
+      Ethan_108: -1867600633
+      Ethan_109: 1518586377
+      Ethan_11: 1334607149
+      Ethan_110: 38390302
+      Ethan_111: 760113439
+      Ethan_112: -1224975327
+      Ethan_113: -1149100842
+      Ethan_114: -546106231
+      Ethan_115: 1881638578
+      Ethan_116: -425522633
+      Ethan_117: 1430221925
+      Ethan_118: 1578249491
+      Ethan_119: -1659253045
+      Ethan_12: -191617910
+      Ethan_120: -1447726005
+      Ethan_121: -2005103673
+      Ethan_122: -1681995238
+      Ethan_123: 289166803
+      Ethan_124: 1174752262
+      Ethan_125: -200237767
+      Ethan_126: 1407975358
+      Ethan_127: 1564225529
+      Ethan_128: -937425536
+      Ethan_129: 140087469
+      Ethan_13: -2050728721
+      Ethan_130: 606852293
+      Ethan_131: -514567119
+      Ethan_132: 1213627670
+      Ethan_133: -1079711105
+      Ethan_134: -1983758926
+      Ethan_135: -398168648
+      Ethan_136: -1637385876
+      Ethan_137: 368716794
+      Ethan_138: 1151754715
+      Ethan_139: 817865981
+      Ethan_14: 63668977
+      Ethan_140: 205922292
+      Ethan_141: 1439248683
+      Ethan_142: -1332569780
+      Ethan_143: -1535992657
+      Ethan_144: -138091870
+      Ethan_15: 490840105
+      Ethan_16: 1422395470
+      Ethan_17: -1578321465
+      Ethan_18: -633374163
+      Ethan_19: 1739158329
+      Ethan_2: 1071786688
+      Ethan_20: -952502401
+      Ethan_21: -170955072
+      Ethan_22: 267044564
+      Ethan_23: -700587583
+      Ethan_24: 193166310
+      Ethan_25: -488686681
+      Ethan_26: -1688598483
+      Ethan_27: 776948610
+      Ethan_28: 816522923
+      Ethan_29: -1420599424
+      Ethan_3: -1332145786
+      Ethan_30: -1140432151
+      Ethan_31: -2066977460
+      Ethan_32: -1064424081
+      Ethan_33: -426939597
+      Ethan_34: -2035581113
+      Ethan_35: -797284668
+      Ethan_36: -1048982844
+      Ethan_37: -91440630
+      Ethan_38: 1771348662
+      Ethan_39: -170286284
+      Ethan_4: -755939307
+      Ethan_40: -574111653
+      Ethan_41: -360832817
+      Ethan_42: 1683106913
+      Ethan_43: 370705976
+      Ethan_44: 1408295062
+      Ethan_45: -236978387
+      Ethan_46: 492379521
+      Ethan_47: 127953936
+      Ethan_48: -1038493167
+      Ethan_49: -842475056
+      Ethan_5: -735078105
+      Ethan_50: -1354223763
+      Ethan_51: 35460245
+      Ethan_52: 209106
+      Ethan_53: 1900761217
+      Ethan_54: -1327160321
+      Ethan_55: -922557428
+      Ethan_56: -356630640
+      Ethan_57: 1604102228
+      Ethan_58: 873034035
+      Ethan_59: -1978312747
+      Ethan_6: 1111334505
+      Ethan_60: -2053873054
+      Ethan_61: -1484435892
+      Ethan_62: 1890775136
+      Ethan_63: 1380601480
+      Ethan_64: -1196401080
+      Ethan_65: 246860110
+      Ethan_66: -2006051311
+      Ethan_67: 1374713888
+      Ethan_68: 65775930
+      Ethan_69: 499476626
+      Ethan_7: 291679924
+      Ethan_70: -2004067862
+      Ethan_71: 1776890859
+      Ethan_72: 137670492
+      Ethan_73: -759840404
+      Ethan_74: 605733210
+      Ethan_75: 2033554813
+      Ethan_76: -736616104
+      Ethan_77: -1482335196
+      Ethan_78: 1891276888
+      Ethan_79: -346601648
+      Ethan_8: 1321272488
+      Ethan_80: -651303159
+      Ethan_81: 1700107000
+      Ethan_82: -173862142
+      Ethan_83: -1849779067
+      Ethan_84: 1016757345
+      Ethan_85: 488779262
+      Ethan_86: -286690451
+      Ethan_87: 1580477730
+      Ethan_88: -1138960897
+      Ethan_89: 2001050707
+      Ethan_9: -805162522
+      Ethan_90: 738761772
+      Ethan_91: -618434891
+      Ethan_92: -627357352
+      Ethan_93: 2101705831
+      Ethan_94: -134749939
+      Ethan_95: 1944281930
+      Ethan_96: -1593504453
+      Ethan_97: -1265699727
+      Ethan_98: 802012569
+      Ethan_99: -151926343
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
